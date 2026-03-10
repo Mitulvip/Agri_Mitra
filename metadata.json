@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Kisan Mitra - AI Farmer Advisor",
+  "description": "An AI-powered chatbot providing farmers with real-time advice on weather, market prices, crop suggestions, and government schemes, featuring a voice assistant for easy interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
